@@ -1,0 +1,6 @@
+C:\Users\user\OneDrive - Cubis Solutions bvba\Documents\Academy\Training DevOps\repowiebe\trydatabase\trydatabase\bin\Debug\trydatabase.dacpac
+C:\Users\user\OneDrive - Cubis Solutions bvba\Documents\Academy\Training DevOps\repowiebe\trydatabase\trydatabase\bin\Debug\trydatabase.dll
+C:\Users\user\OneDrive - Cubis Solutions bvba\Documents\Academy\Training DevOps\repowiebe\trydatabase\trydatabase\bin\Debug\trydatabase.pdb
+C:\Users\user\OneDrive - Cubis Solutions bvba\Documents\Academy\Training DevOps\repowiebe\trydatabase\trydatabase\obj\Debug\trydatabase.sqlproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Cubis Solutions bvba\Documents\Academy\Training DevOps\repowiebe\trydatabase\trydatabase\obj\Debug\trydatabase.dll
+C:\Users\user\OneDrive - Cubis Solutions bvba\Documents\Academy\Training DevOps\repowiebe\trydatabase\trydatabase\obj\Debug\trydatabase.pdb
